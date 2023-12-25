@@ -1,4 +1,4 @@
 # demo-repo
 1st demo
 <br>
-Author - Saurabh
+Author - Saurabh Chaturvedi
